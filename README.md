@@ -1,16 +1,11 @@
-# submission_beginner
+# Cat Cart
 
-A new Flutter project.
+Adaptive app for 3 screen sizes
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+https://youtu.be/kIDrFR6_zN4?si=Hr6B57w4RACpRYPu
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="app_screenshot/mobile.png" width="250"/> <img src="app_screenshot/tablet.png" width="250"/> <img src="app_screenshot/desktop.png" width="250"/>

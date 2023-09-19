@@ -40,7 +40,6 @@ class MobileDetailPage extends StatelessWidget {
                       ),
                     ),
                     const SizedBox(height: 5),
-                    // Tambahkan widget teks harga di bawah judul
                     Text(
                       'RP ${Formater.format(product.price)}',
                       style: const TextStyle(
